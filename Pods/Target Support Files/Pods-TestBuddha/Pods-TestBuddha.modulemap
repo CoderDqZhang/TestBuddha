@@ -1,0 +1,6 @@
+framework module Pods_TestBuddha {
+  umbrella header "Pods-TestBuddha-umbrella.h"
+
+  export *
+  module * { export * }
+}
